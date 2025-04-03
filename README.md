@@ -8,7 +8,7 @@
 
 OMNI FLUX is a next-generation blockchain platform that combines advanced trading capabilities with innovative DeFi solutions.
 
-🔗 [Launch App](https://app.omniflux.io) | 📚 [Documentation](https://docs.omniflux.io) | 🤝 [Community](https://discord.gg/omniflux)
+🔗 [Launch App](https://app.omniflux.pro) | 📚 [Documentation](https://docs.omniflux.pro) | 🤝 [Community](https://discord.gg/omniflux)
 
 ## Features
 
@@ -29,7 +29,7 @@ OMNI FLUX is a next-generation blockchain platform that combines advanced tradin
 
 ## Getting Started
 
-For detailed setup instructions and API documentation, please visit our [Documentation](https://docs.omniflux.ai).
+For detailed setup instructions and API documentation, please visit our [Documentation](https://docs.omniflux.pro).
 
 ## Contributing
 
@@ -41,7 +41,7 @@ This project is proprietary software. While we share our documentation and publi
 
 ## Contact
 
-For business inquiries and licensing information, please contact us at [contact@omniflux.ai](mailto:contact@omniflux.ai).
+For business inquiries and licensing information, please contact us at [contact@omniflux.pro](mailto:contact@omniflux.pro).
 
 ---
 
