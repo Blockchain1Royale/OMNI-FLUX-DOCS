@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # OMNI FLUX
 
 OMNI FLUX is a cutting-edge trading platform that combines advanced AI technology with real-time market analysis to provide intelligent trading insights and automated trading strategies.
