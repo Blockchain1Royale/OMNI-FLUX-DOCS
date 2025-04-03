@@ -2,8 +2,6 @@
 
 OMNI FLUX is a cutting-edge trading platform that combines advanced AI technology with real-time market analysis to provide intelligent trading insights and automated trading strategies.
 
-🔗 [Launch App](https://app.omniflux.io) | 📚 [Documentation](https://docs.omniflux.io) | 🤝 [Community](https://discord.gg/omniflux)
-
 ## Features
 
 - 🤖 AI-Powered Trading Assistant
