@@ -45,7 +45,7 @@ For business inquiries and licensing information, please contact us at [contact@
 
 ---
 
-© 2024 Blockchain1Royale. All rights reserved. 
+© 2025 BlockchainRoyale. All rights reserved. 
 =======
 # OMNI-FLUX-DOCS
 >>>>>>> af435067a6e8c4d8c76692782bb157382f6498d6
