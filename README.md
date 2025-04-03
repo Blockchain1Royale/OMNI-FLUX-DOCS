@@ -1,10 +1,10 @@
 # OMNI FLUX 🌊
 
-[![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://docs.omniflux.io)
+[![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://docs.omniflux.pro)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-Platform-blueviolet)](https://solana.com)
 [![Jupiter](https://img.shields.io/badge/Jupiter-DEX-blue)](https://jup.ag)
-[![Trading](https://img.shields.io/badge/Trading-Active-success)](https://omniflux.io/trading)
+[![Trading](https://img.shields.io/badge/Trading-Active-success)](https://omniflux.pro/trading)
 
 OMNI FLUX is a next-generation blockchain platform that combines advanced trading capabilities with innovative DeFi solutions.
 
