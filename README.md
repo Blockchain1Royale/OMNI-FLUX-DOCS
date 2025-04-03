@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OMNI FLUX
 
 OMNI FLUX is a cutting-edge trading platform that combines advanced AI technology with real-time market analysis to provide intelligent trading insights and automated trading strategies.
@@ -38,3 +39,6 @@ For business inquiries and licensing information, please contact us at [contact@
 ---
 
 © 2024 Blockchain1Royale. All rights reserved. 
+=======
+# OMNI-FLUX-DOCS
+>>>>>>> af435067a6e8c4d8c76692782bb157382f6498d6
